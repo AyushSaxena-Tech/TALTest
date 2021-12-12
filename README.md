@@ -2,6 +2,7 @@
 
 pip install -r requirements.txt
 To Deploy flask API
+Download node_modules.zip and unzip in the same folder location where src is
 
 ## Available Scripts
 
